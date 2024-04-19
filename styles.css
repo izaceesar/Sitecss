@@ -1,0 +1,85 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  background-color: rgb(174, 174, 174);
+}
+
+
+
+#cabeçalho{
+  height: 70px;
+  background-color:rgb(89, 67, 47);
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#menu{
+  height: 20px;
+  width: 100%;
+  background-color: rgb(78, 64, 56);
+  float:left;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+#conteudo{
+  height: 500px;
+  width: 800px;
+  background-color:rgb(255, 255, 255);
+  float:left;
+  margin-top: px;
+  margin-left: 300px;
+}
+
+#lado{
+  height: 500px;
+  width: 290px;
+  background-color: rgb(255, 255, 255);
+  float:left;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-block-end: 5px;
+}
+
+
+
+p3{
+  font-family: fantasy;
+  font-size: 40px;
+  color: aliceblue;
+}
+
+
+
+h1{
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 26 px;
+  text-align: center;
+}
+
+p2{
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16 px;
+  color: black;
+  
+}
+
+button{
+  color: brown;
+}
+
+
+   /* Estilo personalizado para as imagens do carrossel */
+   .carousel-item img {
+     max-height: 300px; 
+     width:10%; 
+    }
+
